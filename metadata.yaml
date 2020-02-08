@@ -1,0 +1,35 @@
+_repo: Common-Sense-Papers-on-Cookery_61185
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Payne, A. G. (Arthur Gay)
+    aliases:
+    - Browne, Phillis
+    - Payne, Arthur Gay
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '5585'
+    url: http://www.gutenberg.org/2009/agents/5585
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Gay_Payne
+description: ''
+gutenberg_issued: '2020-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, English'
+- GITenberg
+tableOfContents: Uses and abuses of a frying-pan -- Kitchen economy -- Little extravagancies
+  of the table -- Cold leg of mutton -- How to make dishes look nice -- Breakfast
+  dishes -- How to give a nice little dinner -- How to give a nice little supper --
+  Spring dishes -- Savoury summer dishes -- Salads, and how to make them -- Picnic
+  dainties -- Cooling drinks -- Game and gravy (including how to cook hare) -- Food
+  for cold weather -- Christmas dinners (including Christmas cheer) -- Turtle soup
+  -- Fish dinners -- Wedding breakfasts -- Food for invalids.
+title: Common-Sense Papers on Cookery
+url: http://www.gutenberg.org/ebooks/61185
